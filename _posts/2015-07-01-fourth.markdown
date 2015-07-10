@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Fourth"
+date: 2015-07-01 10:00:00
+meta: "Long Weekend Prep"
+categories: jekyll update
+tags:
+- -redwhiteblue
+- -america
+- -longweekend
+- -fun
+blog_excerpt: Change in Fourth of July plans! Dare I say we are edging towards patriotism? Three-day weekends change everything. 
+---
+
+Typically, my family does not go all-out for the fourth of July weekend. However, something changed and this year we have planned a trip to Florida! Details will be posted soon (along with pictures!) so stay tuned. 
