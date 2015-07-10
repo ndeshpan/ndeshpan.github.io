@@ -45,7 +45,7 @@ text-align:center;
         <table>
         <th colspan="2"> Smattering of World Momentos </th>
             <tr>
-                <td> <img class="pictures" src="http://images-resrc.staticlp.com/S=W748/O=75/http://www.lonelyplanet.com/travel-blog/tip-article/wordpress_uploads/2010/11/avenida1.jpg"  /></td>
+                <td> <a href="/adventures/buenosaires"> <img class="pictures" src="http://images-resrc.staticlp.com/S=W748/O=75/http://www.lonelyplanet.com/travel-blog/tip-article/wordpress_uploads/2010/11/avenida1.jpg"  /> </a> </td>
                 <td> <img class="pictures" src="http://www.lucilashomemade.com/cgmultimedia/LHM/alfajores/20110514_50.JPG" /></td>
             </tr>
             <tr>
