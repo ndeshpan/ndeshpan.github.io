@@ -7,30 +7,7 @@ permalink: /adventures/
 
 <html>
     <head>
-<style>
-#header {
-color:orange;
-}
-
-#description {
-padding-top:5x;
-}
-
-.pictures {
-height:300px;
-width:300px;
-}
-
-a:hover {
-color:#ba6b8b;
-text-decoration:none;
-}
-
-.picture-descriptions {
-text-align:center;
-}
-
-</style>
+        <link rel="stylesheet" type="text/css" href="/css/adventures.css" />
     </head>
 
     

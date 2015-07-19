@@ -7,13 +7,7 @@ permalink: /about/
 
 <html>
 <head>
-<style>
-
-a:hover {
-font-weight:bold;
-}
-
-</style>
+	<link rel="stylesheet" type="text/css" href="/css/about.css" />
 </head>
 <body>
 Hello, and welcome to my travel blog! My name is Nikita, and I love to explore different cultures, countries, and cuisines. I document my adventures on this blog. I hope you enjoy reading about my experiences! 

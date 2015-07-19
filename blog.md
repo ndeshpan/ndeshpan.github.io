@@ -5,16 +5,7 @@ permalink: /blog/
 ---
 
 <head>
-<style>
-	.post-container {
-		background-color:#4dc9ff ;
-		border-radius:15px;
-		border: 2px solid black;
-	}
-
-
-
-</style>
+<link rel="stylesheet" type="text/css" href="/css/blog.css" />
 </head>
 <body>
 

@@ -5,17 +5,7 @@ permalink: /tags/
 ---
 <html>
 <head>
-	<style>
-a:hover {
-	text-decoration:none;
-	color:#ba6b8b;
-}
-
-#tag {
-	color:#ff69b4;
-}
-
-	</style>
+<link rel="stylesheet" type="text/css" href="/css/tags.css" />
 </head>
 <body>
 
