@@ -21,7 +21,7 @@ permalink: /blog/
 <table>
 	<tr> 
 <li class="image" style="background: url('{{post.imgurl}}')" > </li>
-	<li> <a class="post-link" href="{{ post.url }}"> {{post.title}}</a>{{post.blog_excerpt}} </li>
+	<li> <a class="post-link" href="{{ post.url }}"> {{post.title}} </a> {{post.blog_excerpt}} </li>
 	</tr>
 </table>
 </div>
