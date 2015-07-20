@@ -10,8 +10,8 @@ tags:
 - -longweekend
 - -fun
 blog_excerpt: Change in Fourth of July plans! Dare I say we are edging towards patriotism? Three-day weekends change everything. 
-image: <img class="blog_image" src="http://www.birminghamtimes.com/wp-content/uploads/2014/06/shutterstock_87007358.jpg" />
-imgurl: http://www.birminghamtimes.com/wp-content/uploads/2014/06/shutterstock_87007358.jpg
+image: <img class="blog_image" src="http://fleettireandretreading.com/images/display/588/tires-auto-repair-pottsville-russellville-ar.jpg" />
+imgurl: http://fleettireandretreading.com/images/display/588/tires-auto-repair-pottsville-russellville-ar.jpg
 ---
 
 
