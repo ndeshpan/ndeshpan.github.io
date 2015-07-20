@@ -15,15 +15,14 @@ permalink: /blog/
 <li>
 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} </span>
 
+
+
 <div class="post-container">
-<table class="post-container">
-<tr class="post-container">
-<h2>
-	
-<a class="post-link" href="{{ post.url }}">{{post.title}}</a>
-</h2>
-{{post.blog_excerpt}}
-</tr>
+<table>
+	<tr> 
+<li class="image" style="background: url('{{post.imgurl}}')" > </li>
+	<li> <a class="post-link" href="{{ post.url }}"> {{post.title}}</a>{{post.blog_excerpt}} </li>
+	</tr>
 </table>
 </div>
 
@@ -33,3 +32,8 @@ permalink: /blog/
 
 </ul>
 </body>
+
+
+
+
+

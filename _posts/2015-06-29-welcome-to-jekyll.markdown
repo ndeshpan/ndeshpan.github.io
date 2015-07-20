@@ -9,7 +9,8 @@ tags:
 - -america
 - -beginning
 blog_excerpt: Some beginning tips and tricks 
-
+image: <img class="blog_image" src="http://wolfslittlestore.be/wp-content/uploads/2013/07/jekyll.png" />
+imgurl: http://wolfslittlestore.be/wp-content/uploads/2013/07/jekyll.png
 ---
 
 

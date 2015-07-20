@@ -10,6 +10,9 @@ tags:
 - -longweekend
 - -fun
 blog_excerpt: Change in Fourth of July plans! Dare I say we are edging towards patriotism? Three-day weekends change everything. 
+image: <img class="blog_image" src="http://www.birminghamtimes.com/wp-content/uploads/2014/06/shutterstock_87007358.jpg" />
+imgurl: http://www.birminghamtimes.com/wp-content/uploads/2014/06/shutterstock_87007358.jpg
 ---
+
 
 Typically, my family does not go all-out for the fourth of July weekend. However, something changed and this year we have planned a trip to Florida! Details will be posted soon (along with pictures!) so stay tuned. 
