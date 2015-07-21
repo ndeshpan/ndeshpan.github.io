@@ -11,7 +11,6 @@ tags:
 - -miami
 - -america
 blog_excerpt: Palm Beach was beautiful, breezy, and had a great beachtown vibe. After realizing how close Miami was to our location, we also planned a spontaneous trip to Miami and got to see this amazing bay-side cultural landmark!
-image: <img class="blog_image" src="http://fantasea.com.au/wp-content/uploads/2013/02/PBF_cc_banner.jpg" />
 imgurl: http://fantasea.com.au/wp-content/uploads/2013/02/PBF_cc_banner.jpg
 ---
 
