@@ -9,31 +9,13 @@ permalink: /blog/
 </head>
 <body>
 
-<ul class="post-list">
 {% for post in site.posts %}
-
-<li>
+<br>
 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} </span>
+	<div class="image" style="background-image: url('{{post.imgurl}}')" > 
+		<div class="post-box"> <a class="post-link" href="{{ post.url }}"> {{post.title}} </a> {{post.blog_excerpt}} </div>
+	</div>
 
 
-
-<div class="post-container">
-<table>
-	<tr> 
-<li class="image" style="background: url('{{post.imgurl}}')" > </li>
-	<li> <a class="post-link" href="{{ post.url }}"> {{post.title}} </a> {{post.blog_excerpt}} </li>
-	</tr>
-</table>
-</div>
-
-
-</li>
 {% endfor %}
-
-</ul>
 </body>
-
-
-
-
-
