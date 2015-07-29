@@ -10,6 +10,8 @@ blog_excerpt: "Learn how to choose a color schema!"
 imgurl: "http://discovermagazine.com/~/media/import/images/5/6/3/colors.jpg"
 ---
 
+<link href="/css/2015-07-29-color-spaces.css" type="text/css" rel="stylesheet" >
+
 If you have ever painted your house and been forced to sift through a harrowing supply of thick, wieldy color decks, you understand how difficult it is to choose cohesive colors.
 
 Color shapes our first impressions of an environment, and can either attract or violently repel our brain.
